@@ -39,34 +39,30 @@
 <body>
     <div class="container">
         <h1>Ufuk Can Demirsoy</h1>
-        <p><strong>Phone:</strong> +90 543 920 1428</p>
+        <p><strong>Phone:</strong> +90 5439201428</p>
         <p><strong>Email:</strong> <a href="mailto:ucdemirsoy@gmail.com">ucdemirsoy@gmail.com</a></p>
+        <p><strong>Date of Birth:</strong> 16-06-2000</p>
         <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ufuk-can-demirsoy-4a0815213/" target="_blank">linkedin.com/in/ufuk-can-demirsoy</a></p>
 
         <div class="section">
-            <h2>About Me</h2>
-            <p>I am an enthusiastic AI developer with experience in speech recognition (also speaker recognition), chatbot development, and generative AI. I enjoy creating secure, easy-to-use solutions using deep learning and natural language processing. My goal is to turn innovative ideas into practical AI applications.</p>
+            <h2>Profile</h2>
+            <p>I am an enthusiastic AI developer with experience in speech recognition (also speaker recognition), chatbot development, and generative AI LLMS. I enjoy creating secure, easy-to-use solutions using deep learning and natural language processing. My goal is to turn innovative ideas into practical AI applications.</p>
         </div>
 
         <div class="section">
-            <h2>Education</h2>
-            <p><strong>Bachelor of Computer Science</strong><br>Ahi Evran University, Kırşehir (Sep 2020 - Jul 2025)</p>
+            <h2>Education and Qualifications</h2>
+            <p><strong>Computer Science</strong><br>Ahi Evran University, Kırşehir (Sep 2020 - Jul 2025)</p>
         </div>
 
         <div class="section">
-            <h2>Skills</h2>
-            <ul>
-                <li>Python, PyTorch, TensorFlow</li>
-                <li>Machine Learning, Deep Learning, NLP</li>
-                <li>Convolutional Neural Networks (CNN)</li>
-                <li>Node.js, C#, JavaScript, Java, React</li>
-                <li>C++, C</li>
-            </ul>
+            <h2>Interests</h2>
+            <p>Generative AI & Large Language Models, Natural Language Processing, Machine Learning & Deep Learning Research</p>
         </div>
 
         <div class="section">
             <h2>Languages</h2>
-            <p>Turkish (Native), English (Advanced)</p>
+            <p><strong>Turkish:</strong> Native</p>
+            <p><strong>English:</strong> Advanced</p>
         </div>
 
         <div class="section">
@@ -78,6 +74,7 @@
                 <li>Introduction to Computer Vision and Image Processing (IBM, Sep 2024)</li>
                 <li>Deep Neural Networks with PyTorch (IBM, Oct 2024)</li>
                 <li>Introduction to Generative AI with Google Cloud (Udacity, Oct 2024)</li>
+                <li>IBM AI Engineering (IBM, Oct 2024)</li>
                 <li>Large Language Models (LLMs), Transformers & GPT A-Z (SuperDataScience, Nov-Dec 2024)</li>
             </ul>
         </div>
@@ -107,9 +104,23 @@
                 </li>
             </ul>
         </div>
+
+        <div class="section">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li><strong>Machine Learning (ML):</strong> Classification, Regression, Clustering, Dimensionality Reduction; Scikit-learn, SciPy; Implementing ML on big data with Apache Spark</li>
+                <li><strong>Deep Learning (DL):</strong> Autoencoders, RBMs, CNNs, RNNs; Keras, PyTorch, TensorFlow; Designing, training, and evaluating models</li>
+                <li><strong>Natural Language Processing (NLP):</strong> Sentiment Analysis, Text Classification, Named Entity Recognition; NLTK, spaCy, Transformers (Hugging Face); Chatbots and text-based solutions</li>
+                <li><strong>Computer Vision:</strong> OpenCV, PyTorch; Object recognition and face recognition using CNNs</li>
+                <li><strong>Data Preprocessing & Analysis:</strong> NumPy, Pandas for cleaning and analyzing data; Matplotlib, Seaborn for visualization</li>
+                <li><strong>Model Deployment & Reporting:</strong> Deploying models and communicating results effectively</li>
+            </ul>
+            <p>I acquired these technical skills by coding and applying each topic from my certification courses to real-world projects.</p>
+        </div>
     </div>
 </body>
 </html>
+
 
 [portfolio.pdf](https://github.com/user-attachments/files/18549549/portfolio.pdf)
 Personal
