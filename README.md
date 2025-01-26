@@ -87,14 +87,14 @@
                     <br><strong>Technologies:</strong> Python, NLTK, Scikit‑learn
                     <br><strong>Details:</strong> Includes data preprocessing, model training, and results visualization.
                     <br><strong>Achievements:</strong> I gained experience in data preprocessing, model training, and evaluation by working with Turkish data in the fields of NLP and sentiment analysis. I also developed different approaches to ensure local language support in NLP projects.
-                    <br><a href="[https://github.com/UfukCanDemirsoy/sentiment‑analysis‑‑tr](https://github.com/UfukCanDemirsoy/sentiment-analysis--tr-)" target="_blank">GitHub Link</a>
+                    <br><a href="https://github.com/UfukCanDemirsoy/sentiment-analysis--tr-" target="_blank">GitHub Link</a>
                 </li>
                 <li>
                     <strong>Face Recognition Chatbot v2 (Ongoing):</strong> A voice‑enabled smart chatbot integrated with face recognition.
                     <br><strong>Technologies:</strong> Python, OpenCV, TensorFlow, SpeechRecognition
                     <br><strong>Details:</strong> Real‑time face recognition and natural language processing capabilities.
                     <br><strong>Achievements:</strong> I gained practical knowledge in image processing and face recognition, including how to integrate these features into daily assistant applications. I am currently enhancing this project by adding stronger NLP capabilities using Transformer models and the Hugging Face library to provide more accurate and flexible responses. My current goal is to gain practical experience in large language models (LLMs) and complete this project with robust speech recognition.
-                    <br><a href="https://github.com/UfukCanDemirsoy/face‑recognition‑chatbotv2" target="_blank">GitHub Link</a>
+                    <br><a href="https://github.com/UfukCanDemirsoy/face-recognition-chatbotv2" target="_blank">GitHub Link</a>
                 </li>
                 <li>
                     <strong>TRPathOptimizer:</strong> I developed an optimization algorithm that calculates the shortest path between two points on the map of Turkey. It determines the fastest or shortest route between cities or locations within Turkey.
@@ -107,23 +107,68 @@
                     <strong>Face Recognition Chatbot:</strong> The first version of a voice‑enabled chatbot featuring face recognition.
                     <br><strong>Technologies:</strong> Python, OpenCV, SpeechRecognition
                     <br><strong>Achievements:</strong> Gained basic‑level experience in integrating face recognition into a chatbot. This project served as a foundation for more advanced chatbot and face recognition systems.
-                    <br><a href="https://github.com/UfukCanDemirsoy/face‑recognition‑chatbot" target="_blank">GitHub Link</a>
+                    <br><a href="https://github.com/UfukCanDemirsoy/face-recognition-chatbot" target="_blank">GitHub Link</a>
                 </li>
             </ul>
         </div>
 
         <div class="section">
             <h2>Technical Skills</h2>
-            <ul>
-                <li><strong>Machine Learning (ML):</strong> Classification, Regression, Clustering, Dimensionality Reduction; Scikit-learn, SciPy; Implementing ML on big data with Apache Spark</li>
-                <li><strong>Deep Learning (DL):</strong> Autoencoders, Restricted Boltzmann Machines (RBM), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN); Keras, PyTorch, TensorFlow; Designing, training, and evaluating models</li>
-                <li><strong>Natural Language Processing (NLP):</strong> Sentiment Analysis, Text Classification, Named Entity Recognition; NLTK, spaCy, Transformers (Hugging Face); Chatbots and text-based solutions</li>
-                <li><strong>Computer Vision:</strong> OpenCV, PyTorch; Object recognition and face recognition using CNNs</li>
-                <li><strong>Data Preprocessing & Analysis:</strong> NumPy, Pandas for cleaning and analyzing data; Matplotlib, Seaborn for visualization</li>
-                <li><strong>Model Deployment & Reporting:</strong> Deploying models and communicating results effectively</li>
-            </ul>
-            <p>I acquired these technical skills by coding and applying each topic from my certification courses to real‑world projects.</p>
+            <div class="section">
+                <h3>Machine Learning (ML)</h3>
+                <h4>Algorithms:</h4>
+                <p>Classification, Regression, Clustering, Dimensionality Reduction</p>
+                <h4>Libraries:</h4>
+                <p>Scikit-learn, SciPy</p>
+                <h4>ML on Big Data:</h4>
+                <p>Implementing ML algorithms and data processing workflows on large datasets using Apache Spark</p>
+                <h4>ML Deployment:</h4>
+                <p>Deploying ML algorithms and creating ML pipelines on Apache Spark</p>
+            </div>
+
+            <div class="section">
+                <h3>Deep Learning (DL)</h3>
+                <h4>Models:</h4>
+                <p>Autoencoders, Restricted Boltzmann Machines (RBM), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)</p>
+                <h4>Libraries:</h4>
+                <p>Keras, PyTorch, TensorFlow</p>
+                <h4>Model Development:</h4>
+                <p>Designing, training, and evaluating deep learning models and neural networks</p>
+            </div>
+
+            <div class="section">
+                <h3>Natural Language Processing (NLP)</h3>
+                <h4>Techniques:</h4>
+                <p>Sentiment Analysis, Text Classification, Named Entity Recognition</p>
+                <h4>Libraries:</h4>
+                <p>NLTK, spaCy, Transformers (e.g., Hugging Face)</p>
+                <h4>Applications:</h4>
+                <p>Building chatbots and language models for text-based solutions</p>
+            </div>
+
+            <div class="section">
+                <h3>Computer Vision</h3>
+                <h4>Tasks:</h4>
+                <p>Developing computer vision projects using OpenCV and PyTorch</p>
+                <h4>Applications:</h4>
+                <p>Object recognition and face recognition using CNN-based approaches</p>
+            </div>
+
+            <div class="section">
+                <h3>Data Preprocessing & Analysis</h3>
+                <h4>Tools:</h4>
+                <p>Using NumPy and Pandas for data cleaning, dimensionality reduction, and analysis</p>
+                <h4>Visualization:</h4>
+                <p>Visualizing data with Matplotlib and Seaborn to derive insights</p>
+            </div>
+
+            <div class="section">
+                <h3>Model Deployment & Reporting</h3>
+                <p>Deploying deep learning project results and effectively communicating findings</p>
+            </div>
+
+            <p>I acquired these technical skills by coding and applying each topic from my certification courses to real-world projects.</p>
         </div>
-    </div>
+
 </body>
 </html>
