@@ -87,7 +87,7 @@
                     <br><strong>Technologies:</strong> Python, NLTK, Scikit‑learn
                     <br><strong>Details:</strong> Includes data preprocessing, model training, and results visualization.
                     <br><strong>Achievements:</strong> I gained experience in data preprocessing, model training, and evaluation by working with Turkish data in the fields of NLP and sentiment analysis. I also developed different approaches to ensure local language support in NLP projects.
-                    <br><a href="https://github.com/UfukCanDemirsoy/sentiment‑analysis‑‑tr" target="_blank">GitHub Link</a>
+                    <br><a href="[https://github.com/UfukCanDemirsoy/sentiment‑analysis‑‑tr](https://github.com/UfukCanDemirsoy/sentiment-analysis--tr-)" target="_blank">GitHub Link</a>
                 </li>
                 <li>
                     <strong>Face Recognition Chatbot v2 (Ongoing):</strong> A voice‑enabled smart chatbot integrated with face recognition.
